@@ -2,6 +2,7 @@ class Foo
 
 
 
+  aaaa
 
 
 end
